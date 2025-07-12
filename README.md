@@ -3,6 +3,12 @@
 A secure and lightweight **Password Manager** built in **C++**, designed for managing your login credentials via the command line. It features **master PIN protection**, **XOR-based encryption**, **random password generation**, and a **password strength checker**.
 
 ---
+## 📸 Demo
+
+![CLI Demo](demo.gif)
+
+
+
 
 ## 🧰 Features
 
